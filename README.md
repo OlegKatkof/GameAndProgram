@@ -1,2 +1,2 @@
 # GameAndProgram
-It is Python code collection
+It is Python code collection, enjoyed!
